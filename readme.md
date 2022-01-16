@@ -39,4 +39,8 @@ make
 
 ---
 
-> [_rapando](https://twitter.com/rapando)
+Documentation found in `linked-lists.c`
+
+---
+
+> [_rapando](https://twitter.com/_rapando)
